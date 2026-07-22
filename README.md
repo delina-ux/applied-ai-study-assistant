@@ -118,5 +118,24 @@ Write 1 to 2 paragraphs here about what you learned:
 - about how recommenders turn data into predictions
 - about where bias or unfairness could show up in systems like this
 
+## Sample Recommendation Output
 
+```text
+Top recommendations:
+
+Sunrise City - Score: 4.96
+Because: Genre match (+2), Mood match (+1), Similar energy
+
+Sunflower - Score: 4.86
+Because: Genre match (+2), Mood match (+1), Similar energy
+
+Gym Hero - Score: 3.74
+Because: Genre match (+2), Similar energy
+
+Golden Hour - Score: 3.60
+Because: Genre match (+2), Similar energy
+
+Someone Like You - Score: 3.04
+Because: Genre match (+2), Similar energy
+```
 
